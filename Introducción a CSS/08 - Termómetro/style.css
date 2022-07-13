@@ -1,0 +1,37 @@
+* {
+  background-color: rgb(239, 170, 205);
+  font-size: 30px;
+}
+.blue {
+  color: blue;
+}
+.blueone {
+  color: rgb(23, 115, 219);
+}
+.bluetwo {
+  color: rgb(10, 149, 241);
+}
+.bluethree {
+  color: rgb(93, 208, 236);
+}
+.bluefour {
+  color: lightblue;
+}
+.middle {
+  color: white;
+}
+.redfour {
+  color: rgb(243, 243, 171);
+}
+.redthree {
+  color: rgb(248, 223, 81);
+}
+.redtwo {
+  color: rgb(245, 187, 80);
+}
+.redone {
+  color: rgb(247, 131, 53);
+}
+.red {
+  color: red;
+}

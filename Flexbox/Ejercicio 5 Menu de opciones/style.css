@@ -1,0 +1,60 @@
+.contenedor {
+  background-color: lightgray;
+  padding: 0.8%;
+  border: solid 1px black;
+}
+
+.primerContenido {
+  background-color: white;
+  padding: 0.8%;
+  margin-bottom: 1%;
+  border: solid 1px black;
+  display: flex;
+}
+
+.foto,
+.icono {
+  padding: 3%;
+  border: solid 1px black;
+  flex-grow: 25%;
+}
+
+.nombre {
+    text-align: center;
+  padding: 3%;
+  border: solid 1px black;
+  width: 75%;
+  margin: 0% 1%;
+}
+
+.segundoContenido {
+  background-color: white;
+  padding: 0.8%;
+  margin-bottom: 1%;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.datos {
+  padding: 2%;
+  border: solid 1px black;
+  margin: 0.5% 0%;
+}
+
+.tercerContenido {
+  background-color: white;
+  padding: 0.8%;
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+}
+
+.cerrar {
+    background-color: rgb(250, 148, 114);
+    padding: 0.8%;
+    border: solid 1px black;
+    text-align: center;
+    width: 50%;
+}

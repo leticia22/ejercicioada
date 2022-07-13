@@ -1,0 +1,32 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(207, 203, 203);
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+.done {
+  background-color: rgba(4, 157, 4, 0.699);
+}
+
+.canceled {
+  background-color: rgb(235, 12, 12);
+}
+
+.doing {
+  background-color: rgba(255, 81, 0, 0.955);
+}
+
+.pending {
+  background-color: rgba(0, 0, 255, 0.781);
+}

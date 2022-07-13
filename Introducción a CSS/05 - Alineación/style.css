@@ -1,0 +1,15 @@
+main {
+  width: 90%;
+  height: auto;
+}
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}

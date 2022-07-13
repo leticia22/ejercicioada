@@ -1,0 +1,238 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.divisor {
+  width: 100%;
+  padding: 0.01%;
+  background-color: black;
+}
+
+.titulo {
+  font-size: 2em;
+}
+
+.container {
+  padding: 1% 0%;
+  width: 100%;
+  display: flex;
+}
+
+/* ejercicio1 */
+
+/* cuadro1 */
+
+.cuadro1 {
+  background-color: rgb(10, 92, 92);
+  width: 250px;
+  padding: 2%;
+}
+
+.cuadro2 {
+  background-color: rgb(237, 180, 100);
+  padding: 2%;
+  flex-grow: 2;
+}
+
+.cuadro3 {
+  background-color: rgb(139, 0, 5);
+  width: 250px;
+  padding: 1%;
+}
+
+/* cuadro2 */
+
+.cuadro4 {
+  background-color: rgb(54, 33, 158);
+  padding: 2%;
+  width: 200px;
+}
+
+.cuadro5 {
+  background-color: rgb(62, 31, 31);
+  padding: 2%;
+  flex-grow: 1;
+}
+
+.cuadro6 {
+  background-color: red;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+.cuadro7 {
+  background-color: gray;
+  padding: 2%;
+  width: 200px;
+}
+
+/* cuadro3 */
+
+.cuadro8 {
+  background-color: salmon;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+.cuadro9 {
+  background-color: green;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+.cuadro10 {
+  background-color: yellow;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+/* cuadro4 */
+
+.cuadro11 {
+  background-color: blueviolet;
+  padding: 2%;
+  flex-grow: 2;
+}
+
+.cuadro12 {
+  background-color: blue;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+.cuadro13 {
+  background-color: pink;
+  padding: 2%;
+  flex-grow: 1;
+}
+
+/* cuadro5 */
+
+.cuadro14 {
+  background-color: orange;
+  padding: 2%;
+  flex-grow: 0.5;
+}
+
+.cuadro15 {
+  background-color: orchid;
+  padding: 2%;
+  flex-grow: 0.5;
+}
+
+.cuadro16 {
+  background-color: olivedrab;
+  padding: 2%;
+  flex-grow: 1.5;
+}
+
+/* ejercicio2 */
+
+/* cuadro6 */
+
+.cuadro17 {
+  background-color: cornflowerblue;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro18 {
+  background-color: crimson;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro19 {
+  background-color: darkgoldenrod;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro20 {
+  background-color: orangered;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro21 {
+  background-color: lawngreen;
+  padding: 2%;
+  flex-basis: auto;
+}
+
+/* cuadro7 */
+
+.cuadro22 {
+  background-color: lightpink;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro23 {
+  background-color: palevioletred;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro24 {
+  background-color: rebeccapurple;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro25 {
+  background-color: aqua;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro26 {
+  background-color: blue;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro27 {
+  background-color: black;
+  padding: 2%;
+  flex-basis: auto;
+}
+
+/* cuadro8 */
+
+.cuadro28 {
+  background-color: aquamarine;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro29 {
+  background-color: rosybrown;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro30 {
+  background-color: goldenrod;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro31 {
+  background-color: lawngreen;
+  padding: 2%;
+  flex-basis: 25%;
+}
+
+.cuadro32 {
+  background-color: darkkhaki;
+  padding: 2%;
+  flex-basis: 100%;
+}
+
+.cuadro33 {
+  background-color: paleturquoise;
+  padding: 2%;
+  flex-basis: 100%;
+}

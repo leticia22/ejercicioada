@@ -1,0 +1,45 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(254, 20, 110);
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 19px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.adalove{
+    color: rgb(173, 36, 36);
+}
+
+.pepe{
+    color: rgb(59, 59, 136);
+}
+
+
+.flor{
+    color: rgb(155, 7, 155);
+}
+
+.belu{
+    color: rgb(76, 169, 201);
+}
+
+.martin{
+    color: rgb(19, 80, 19);
+}
+
+.reactions{
+    background-color: rgb(188, 187, 187);
+}
+
+.date{
+    color: rgb(170, 166, 166);
+}
